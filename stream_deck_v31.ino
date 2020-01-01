@@ -3,6 +3,7 @@
   @link partsnotincluded.com/electronics/diy-stream-deck-mini-macro-keyboard
 
   Added oled screen and support leds for retro illuminate by Nicolas ELIE / Twitter @nico_themaire
+  https://github.com/themaire/StreamDeck
 
   F14 = scène d'intro
   F15 = live scène
