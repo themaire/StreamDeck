@@ -2,7 +2,7 @@
   Base Project / @author 'Stream Cheap' Mini Macro Keyboard / David Madison
   @link partsnotincluded.com/electronics/diy-stream-deck-mini-macro-keyboard
 
-  Added oled screen and support leds for retro illuminate by Nicolas ELIE / Twitter @nico_thrmaire
+  Added oled screen and support leds for retro illuminate by Nicolas ELIE / Twitter @nico_themaire
 
   F14 = scène d'intro
   F15 = live scène
