@@ -548,18 +548,12 @@ void loop() {
       } else {
         cptTurn++;
       }
-      Serial.println("ca turn ...");
-      Serial.println(cptLight);
-      Serial.println("...");
     }
   }
 
   //btnLedUVState = digitalRead(BUTTON_LEDUV);
   if (digitalRead(BUTTON_LEDUV)) {
     changeMode();
-    Serial.println("ledMode");
-    Serial.println(ledMode);
-    Serial.println("...");
   }
   delay(100);
 }
