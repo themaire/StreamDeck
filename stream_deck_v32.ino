@@ -547,7 +547,8 @@ class button {
         if (!tabed) {
           Keyboard.press(BUTTON_TAB);
           delay(50);
-          Keyboard.release(BUTTON_TAB);
+          //Keyboard.release(BUTTON_TAB);
+          Keyboard.releaseAll(); // For realease Ctrl button too
           tabed = true;
         }
         tabed = false;
